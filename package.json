@@ -1,0 +1,28 @@
+{
+  "name": "agecalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testWatch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eveshan/AgeCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eveshan/AgeCalculator/issues"
+  },
+  "homepage": "https://github.com/Eveshan/AgeCalculator#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.0",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.4"
+  }
+}
